@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "mods": [
+    {
+      "id": "peaksmanager",
+      "name": "PeaksManager",
+      "description": "Update the mod manager from this menu.",
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/PeaksManager/refs/heads/main/peaksmanager.md"
+    },
+    {
+      "id": "viafabricplus",
+      "name": "ViaFabricPlusPeaks",
+      "description": "Connect to older Java servers and supported Bedrock servers, Xbox friends and LAN worlds.",
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/ViaFabricPlusPeaks/refs/heads/next/v5/peaksmanager.md"
+    },
+    {
+      "id": "peakeor-client",
+      "name": "Peakeor",
+      "description": "A Fabric client with configurable Minecraft utilities.",
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/Peakeor/refs/heads/peakeor/peaksmanager.md",
+      "autoUpdateName": "Peakeor Client"
+    }
+  ]
+}
