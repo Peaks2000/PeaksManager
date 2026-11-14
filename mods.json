@@ -11,7 +11,7 @@
       "id": "viafabricplus",
       "name": "ViaFabricPlusPeaks",
       "description": "Connect to older Java servers and supported Bedrock servers, Xbox friends and LAN worlds.",
-      "manifest": "https://raw.githubusercontent.com/Peaks2000/ViaFabricPlusPeaks/refs/heads/next/v5/peaksmanager.md"
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/ViaFabricPlusPeaks/refs/heads/main/peaksmanager.md"
     },
     {
       "id": "peakeor-client",
