@@ -26,5 +26,13 @@
       "description": "Reduce HUD rendering work with a configurable frame-rate limit. Requires Fabric API.",
       "manifest": "https://raw.githubusercontent.com/Peaks2000/Modern-Exordium/refs/heads/main/peaksmanager.md"
     }
+  ],
+  "dependencies": [
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "description": "Shared Fabric hooks required by compatible mods.",
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/PeaksManager/refs/heads/main/fabric-api.md"
+    }
   ]
 }
