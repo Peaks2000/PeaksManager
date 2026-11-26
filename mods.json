@@ -19,6 +19,12 @@
       "description": "A Fabric client with configurable Minecraft utilities.",
       "manifest": "https://raw.githubusercontent.com/Peaks2000/Peakeor/refs/heads/peakeor/peaksmanager.md",
       "autoUpdateName": "Peakeor Client"
+    },
+    {
+      "id": "exordium",
+      "name": "Exordium Modern",
+      "description": "Reduce HUD rendering work with a configurable frame-rate limit. Requires Fabric API.",
+      "manifest": "https://raw.githubusercontent.com/Peaks2000/Modern-Exordium/refs/heads/main/peaksmanager.md"
     }
   ]
 }
