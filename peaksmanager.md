@@ -9,6 +9,20 @@ PeaksManager uses this file to find the newest compatible JAR. Add future releas
   "releases": [
     {
       "minecraft": "26.3",
+      "version": "1.2.0",
+      "publishedAt": "2026-11-26T19:14:32Z",
+      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.2.0/peaksmanager-1.2.0.jar",
+      "sha256": "bbe7b22671510a048d55b7b2ee1fab639923dfc9b5b16a65c844e39d74bca0fd"
+    },
+    {
+      "minecraft": "26.2",
+      "version": "1.2.0",
+      "publishedAt": "2026-11-26T19:14:32Z",
+      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.2.0/peaksmanager-1.2.0.jar",
+      "sha256": "bbe7b22671510a048d55b7b2ee1fab639923dfc9b5b16a65c844e39d74bca0fd"
+    },
+    {
+      "minecraft": "26.3",
       "version": "1.1.0",
       "publishedAt": "2026-11-12T20:42:32Z",
       "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.1.0/peaksmanager-1.1.0.jar",
