@@ -11,14 +11,14 @@ PeaksManager uses this file to find the newest compatible JAR. Add future releas
       "minecraft": "26.3",
       "version": "1.3.0",
       "publishedAt": "2026-11-27T17:40:07Z",
-      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.3.0/peaksmanager-1.3.0.jar",
+      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.3.0/peaksmanager-1.3.0-update-all.jar",
       "sha256": "10401df7bbded34027741882d8c5a19c3d4a18fc12ee37da87deedd4b7eebabd"
     },
     {
       "minecraft": "26.2",
       "version": "1.3.0",
       "publishedAt": "2026-11-27T17:40:07Z",
-      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.3.0/peaksmanager-1.3.0.jar",
+      "url": "https://github.com/Peaks2000/PeaksManager/releases/download/v1.3.0/peaksmanager-1.3.0-update-all.jar",
       "sha256": "10401df7bbded34027741882d8c5a19c3d4a18fc12ee37da87deedd4b7eebabd"
     },
     {
